@@ -96,9 +96,4 @@ jupyter notebook analisis_calidad_aire_colombia.ipynb
 6. De Vito, S., Massera, E., Piga, M., Martinotto, L., & Di Francia, G. (2008). On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario. *Sensors and Actuators B: Chemical, 129*(2), 750–757. https://doi.org/10.1016/j.snb.2007.09.060
 
 ---
-
-## ⚠️ Aviso
-
-Los resultados provienen de la ejecución real del código sobre datos abiertos del IDEAM;
-no se han inventado datos ni resultados. La interpretación de los datos es responsabilidad
-del autor del análisis, no del IDEAM.
+https://github.com/CAlejandroPerdomo/UDEC-DATOS-NO-ESTRUCTURADOSQ/blob/main/README.md#%EF%B8%8F-aviso
